@@ -1,0 +1,61 @@
+
+Bảo tàng Chiến dịch Hồ Chí Minh :  0
+Bưu Điện HCM :  1
+Bảo Tàng Tranh 3D Art In Us :  2
+BiTexco :  3
+Bến Cảng Nhà Rồng :  4
+Bảo tàng Chứng tích Chiến tranh TPHCM :  5
+Bảo Tàng Mỹ Thuật TPHCM :  6
+Bảo tàng Phụ Nữ Nam Bộ :  7
+Bảo tàng Thành phố Hồ Chí Minh : 8 
+Bảo Tàng Lịch Sử VN TPHCM :  9
+Chùa Bửu Long :  10
+Chùa Hoằng Pháp :  11
+Chùa Pháp Bửu :  12
+chùa ngọc hoàng :  13
+Chùa Quốc Tự :  14
+Chùa Chantarangsay(Chùa Khmer) :  15
+Bến tàu Bạch Đằng :  16
+Chùa Huê Nghiêm Q2 :  17
+Chùa Bà Thiên Hậu Sài Gòn : 18 
+Chợ Đêm Hạnh Thông Tây :  19
+Chợ Tân Định :  20
+Chùa Ông Bổn :  21
+Chợ Lớn (Chợ Bình Tây) :  22
+Chợ bà chiểu :  23
+Chùa Ấn Quang :  24
+Chợ Bến Thành :  25
+Chợ Kim Biên :  26
+Công viên giải trí Đầm Sen :  27
+Chùa Vạn Đức :  28
+công viên Vinhomes Central Park :  29
+Công Viên Suối Tiên :  30
+Dinh Độc Lập :  31
+công viên thỏ trắng :  32
+Hồ Con Rùa TPHCM :  33
+Landmark 81 :  34
+Cầu Ánh Sao Sài Gòn :  35
+Hẻm Bia Lost in HongKong :  36
+Pháp Viện Minh Đăng Quang :  37
+nhà thờ hạnh thông tây :  38
+Phù Châu Miếu (Miếu Nổi) :  39
+Nhà Thờ Tân Định :  40
+Nhà Thờ Cha Tam :  41
+Nowzone Fashion Mall Shopping Center :  42
+Nhà thờ Huyện Sĩ :  43
+Nhà thờ Chợ Quán :  44
+Nhà Thờ Đức Bà :  45
+Nhà Hát TPHCM :  46
+Đền Mariamman :  47
+Thảo Cầm Viên SG :  48
+Phố Tây Bùi Viện TPHCM :  49
+Đài tưởng niệm Bồ tát Thích Quảng Đức :  50
+Tu Viện Khánh An :  51
+Đền Tưởng Niệm Bến Dược :  52
+Địa đạo Củ Chi :  53
+Công viên đá Nhật Rinrin Park :  54
+Đường sách Nguyên Văn Bình :  55
+Áo Dài Exhibition :  56
+Tu Viện VĨNH NGHIÊM :  57
+Chùa Một Cột Thủ Đức :  58
+Phố Đi Bộ Nguyễn Huệ : 59
